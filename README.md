@@ -1,4 +1,4 @@
-**雷好哇👋，我是 [路小雨](https://www.abigailcui.com)，一名普通的前端工作者,欢迎进入我的秘密花园🧚‍♀️,唯愿远方的风比远方更远** 
+**hi，我是 [路小雨](https://www.abigailcui.com)，一名普通的前端工作者,欢迎进入我的秘密花园🧚‍♀️** 
 
 [<img src ="https://img.shields.io/badge/%F0%9F%8C%90-abigailcui.com-brightgreen">](https://www.abigailcui.com)
 
