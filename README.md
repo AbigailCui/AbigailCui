@@ -1,28 +1,6 @@
-**hi，我是 [guole](https://guole.fun/)，一名互联网运营，当前在人工智能行业，喜欢瞎折腾** 👋
+**雷好哇👋，我是 [路小雨](https://www.abigailcui.com)，一名普通的前端工作者,欢迎进入我的秘密花园🧚‍♀️,唯愿远方的风比远方更远** 
 
-[<img src ="https://img.shields.io/badge/%F0%9F%8C%90-guole.fun-brightgreen">](https://guole.fun/)
-![](https://komarev.com/ghpvc/?username=kuole-o&color=blue)
-
-### ⚙ 折腾
-
-<a href="https://github.com/kuole-o/IoT_xiaoai_blinker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=IoT_xiaoai_blinker" />
-</a>
-<a href="https://github.com/kuole-o/Actions-OpenWrt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=Actions-OpenWrt" />
-</a>
-<a href="https://github.com/kuole-o/hexo-butterfly-charts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-butterfly-charts" />
-</a>
-<a href="https://github.com/kuole-o/hexo-tag-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=hexo-tag-map" />
-</a>
-<a href="https://github.com/kuole-o/bber-ispeak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=bber-ispeak" />
-</a>
-<a href="https://github.com/kuole-o/blog_game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuole-o&repo=blog_game" />
-</a>
+[<img src ="https://img.shields.io/badge/%F0%9F%8C%90-abigailcui.com-brightgreen">](https://www.abigailcui.com)
 
 ### 🛠 技能和工具
 
@@ -36,22 +14,19 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
-![Premiere](https://img.shields.io/badge/-Premiere-000058?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=9494f7)
-![Illustrator](https://img.shields.io/badge/-Illustrator-310000?style=flat-square&logo=Adobe-Illustrator&logoColor=#f79c00)
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-009298?style=flat-square&logo=arduino&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
 ...
 
 ### 💬 找到我 
 
-![Gmail Badge](https://img.shields.io/badge/-guole.fun@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![Gmail Badge](https://img.shields.io/badge/-1250682372@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
 ### 🚦 统计信息
 
-<a href="https://github.com/kuole-o">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuole-o&show_icons=true" />
+<a href="https://github.com/AbigailCui">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbigailCui&show_icons=true" />
 </a>
 <a href="https://github.com/weilining/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuole-o&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailCui&layout=compact" />
 </a>
