@@ -18,7 +18,7 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
 ...
 
-### 💬 找到我 
+### 💬 find me 
 
 ![Gmail Badge](https://img.shields.io/badge/-1250682372@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
